@@ -1,4 +1,4 @@
-Dưới đây là những ý chính bạn cần nhớ về DML trong Apex:
+Dưới đây là những ý chính cần nhớ về DML trong Apex:
 
 ### 1. **Các thao tác DML trong Apex**
    - **insert**: Thêm bản ghi mới.
